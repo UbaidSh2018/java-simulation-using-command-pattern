@@ -1,3 +1,6 @@
+This is a bulldozer simulation in Java implemented using Command Pattern. 
+
+
 To generate jar use the following command:
 
     mvn clean install assembly:single 
@@ -24,7 +27,3 @@ This program starts by receiving input from a file. To achieve that, follow the 
     
 _____________
 
-
-Notes:
------------
-Solution approach document is located in docs folder.
