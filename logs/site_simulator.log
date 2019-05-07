@@ -1,0 +1,1906 @@
+2019-04-25 21:37:50 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:37:50 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:37:50 INFO  Bulldozer:153 - Paint damage occurred
+2019-04-25 21:37:50 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:37:50 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:22 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:22 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:22 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:22 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:26 INFO  Bulldozer:260 - Turning right
+2019-04-25 21:38:29 INFO  Bulldozer:156 - This is a Protected Square
+2019-04-25 21:38:29 INFO  Bulldozer:174 - Terminating simulation for trying to clear protected land.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:153 - Paint damage occurred
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:38:44 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:39:08 INFO  Bulldozer:220 - Terminating Simulation: Bulldozer attempted to navigate beyond boundary
+2019-04-25 21:46:26 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:51:24 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:51:28 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:51:31 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:51:34 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:51:51 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:01 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:23 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:25 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:28 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:30 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:33 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:52:49 INFO  Bulldozer:260 - Turning right
+2019-04-25 21:52:53 INFO  Bulldozer:156 - This is a Protected Square
+2019-04-25 21:52:53 INFO  Bulldozer:174 - Terminating simulation for trying to clear protected land.
+2019-04-25 21:53:03 INFO  Bulldozer:220 - Terminating Simulation: Bulldozer attempted to navigate beyond boundary
+2019-04-25 21:55:15 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:55:15 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:55:15 INFO  Bulldozer:153 - Paint damage occurred
+2019-04-25 21:55:15 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:55:15 INFO  Bulldozer:159 - Advancing to next square on grid.
+2019-04-25 21:58:27 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-25 21:58:30 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:44 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:44 INFO  Bulldozer:154 - Paint damage occurred
+2019-04-25 21:58:44 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:44 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:47 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:58:53 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:53 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:53 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:53 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:58:55 INFO  Bulldozer:261 - Turning right
+2019-04-25 21:58:56 INFO  Bulldozer:157 - This is a Protected Square
+2019-04-25 21:58:56 INFO  Bulldozer:175 - Terminating simulation for trying to clear protected land.
+2019-04-25 21:59:08 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-25 21:59:11 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:11 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:11 INFO  Bulldozer:154 - Paint damage occurred
+2019-04-25 21:59:11 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:11 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:13 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:13 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:13 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:13 INFO  Bulldozer:160 - Advancing to next square on grid.
+2019-04-25 21:59:16 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:59:19 INFO  Bulldozer:261 - Turning right
+2019-04-25 21:59:26 WARN  CommandParser:33 - Unknown Command given
+2019-04-25 21:59:28 INFO  Bulldozer:157 - This is a Protected Square
+2019-04-25 21:59:28 INFO  Bulldozer:175 - Terminating simulation for trying to clear protected land.
+2019-04-25 22:14:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-25 22:14:32 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:32 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:32 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-25 22:14:32 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:32 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:34 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:34 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:34 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:34 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:14:35 INFO  Bulldozer:262 - Turning right
+2019-04-25 22:14:37 INFO  Bulldozer:158 - This is a Protected Square
+2019-04-25 22:14:37 INFO  Bulldozer:176 - Terminating simulation for trying to clear protected land.
+2019-04-25 22:14:54 INFO  CommandParser:59 - Terminating Simulation: File invalid or Empty
+2019-04-25 22:15:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-25 22:15:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:15:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:15:23 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-25 22:15:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:15:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-25 22:15:38 INFO  Bulldozer:158 - This is a Protected Square
+2019-04-25 22:15:38 INFO  Bulldozer:176 - Terminating simulation for trying to clear protected land.
+2019-04-25 22:16:21 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:53:26 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:32 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:56:33 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:233 - Turning left
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 10:57:12 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:04:57 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:00 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:06:01 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:08:18 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:23:17 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:28:00 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:42:30 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:42:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:33 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:42:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:33 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:36 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:36 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:36 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:42:36 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:43:19 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:49:58 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:50:53 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:50:55 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:50:56 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:51:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:04 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:51:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:07 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:07 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:07 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:07 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:51:08 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:51:10 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:51:12 INFO  Bulldozer:158 - This is a Protected Square
+2019-04-26 11:51:12 INFO  Bulldozer:176 - Terminating simulation for trying to clear protected land.
+2019-04-26 11:51:54 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:52:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:52:52 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:52:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:52:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:52:59 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:52:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:52:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:04 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:06 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:08 INFO  Bulldozer:158 - This is a Protected Square
+2019-04-26 11:53:08 INFO  Bulldozer:176 - Terminating simulation for trying to clear protected land.
+2019-04-26 11:53:23 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:23 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:56 WARN  CommandParser:33 - Unknown Command given
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:262 - Turning right
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:233 - Turning left
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 11:53:56 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:05:53 INFO  CommandParser:59 - Terminating Simulation: File invalid or Empty
+2019-04-26 12:06:36 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:06:40 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:40 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:40 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:06:40 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:40 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:42 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:42 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:42 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:42 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:06:43 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:06:48 INFO  Bulldozer:158 - This is a Protected Square
+2019-04-26 12:06:48 INFO  Bulldozer:176 - Terminating simulation for trying to clear protected land.
+2019-04-26 12:08:46 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:09:35 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:35 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:35 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:09:35 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:35 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:41 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:09:47 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:47 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:47 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:47 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:51 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:09:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:09:59 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:10:20 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:54 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:262 - Turning right
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:233 - Turning left
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:51 - Bulldozer Initialized
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:155 - Paint damage occurred
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:161 - Advancing to next square on grid.
+2019-04-26 12:46:55 INFO  Bulldozer:262 - Turning right
+2019-04-26 14:50:09 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 14:50:18 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:18 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:18 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 14:50:18 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:18 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:20 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:20 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:20 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:20 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:50:23 INFO  Bulldozer:276 - Turning right
+2019-04-26 14:50:30 INFO  Bulldozer:166 - This is a Protected Square
+2019-04-26 14:50:30 INFO  Bulldozer:188 - Terminating simulation for trying to clear protected land.
+2019-04-26 14:50:36 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 14:50:52 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:50:53 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:50:53 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:51:00 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:51:17 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 14:51:25 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:25 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:25 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 14:51:25 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:25 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:28 INFO  Bulldozer:276 - Turning right
+2019-04-26 14:51:30 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:30 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:30 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:30 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:35 INFO  Bulldozer:244 - Turning left
+2019-04-26 14:51:37 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:37 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:51:42 INFO  Bulldozer:244 - Turning left
+2019-04-26 14:53:00 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 14:53:21 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:53:22 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:53:23 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:53:24 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:24 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:24 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 14:53:24 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:24 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:26 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:53:27 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 14:53:34 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 14:53:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:39 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 14:53:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 14:53:39 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:07 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:244 - Turning left
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 16:44:08 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:11:49 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:11:49 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:06 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:09 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:09 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:09 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:09 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:09 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:11 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:11 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:11 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:11 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:13 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:15 INFO  Bulldozer:166 - This is a Protected Square
+2019-04-26 17:12:15 INFO  Bulldozer:188 - Terminating simulation for trying to clear protected land.
+2019-04-26 17:12:54 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:54 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:54 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:12:55 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:28 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 WARN  CommandParser:37 - Unknown Command given
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:244 - Turning left
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:163 - Paint damage occurred
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-04-26 17:15:29 INFO  Bulldozer:276 - Turning right
+2019-05-03 19:38:18 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-05-03 19:39:32 INFO  Bulldozer:52 - Bulldozer Initialized
+2019-05-03 19:39:38 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-05-03 19:39:38 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-05-03 19:39:38 INFO  Bulldozer:163 - Paint damage occurred
+2019-05-03 19:39:38 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-05-03 19:39:38 INFO  Bulldozer:169 - Advancing to next square on grid.
+2019-05-03 19:39:42 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:40:01 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:40:09 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:40:13 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:40:15 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:40:20 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:28 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:34 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:41 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:44 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:50 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:52 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:54 INFO  Bulldozer:259 - Turning right
+2019-05-03 19:40:58 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:41:01 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:41:06 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:41:07 INFO  Bulldozer:244 - Turning left
+2019-05-03 19:41:09 INFO  Bulldozer:244 - Turning left
